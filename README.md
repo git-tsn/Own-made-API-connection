@@ -24,3 +24,6 @@ https://own-made-api-connection-tsn.onrender.com/countries/name/{:name}
 
 Countries Id get by id
 https://own-made-api-connection-tsn.onrender.com/countries/id/2
+
+Countries by Capital
+https://own-made-api-connection-tsn.onrender.com/countries/capital/dhaka
