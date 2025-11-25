@@ -10,7 +10,6 @@ app.use(express.json());
 
 // Get all countries
 app.get("/countries", (req, res) => {
-  console.log(req); // Utilize req to avoid unused variable error
   res.json(countries);
 });
 
