@@ -3,7 +3,7 @@ import cors from "cors";
 import countries from "./countries.json" with { type: "json" };
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.json());
