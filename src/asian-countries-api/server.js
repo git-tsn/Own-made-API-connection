@@ -38,6 +38,17 @@ app.get("/countries/capital/:capital", (req, res) => {
   }
 });
 
+// Get country by numeric id
+app.get("/countries/id/:id", (req, res) => {
+  const targetId = Number(req.params.id);
+  const country = countries.find((c) => Number(c.id) === targetId);
+  if (country) {
+    res.json(country);
+  } else {
+    res.status(404).json({ message: "Country not found" });
+  }
+});
+
 // Get countries by region
 app.get("/countries/region/:region", (req, res) => {
   const filtered = countries.filter(
@@ -54,6 +65,16 @@ app.get("/countries/currency/:code", (req, res) => {
     )
   );
   res.json(filtered);
+});
+
+// Get countries by Id
+app.get("/countries/id/:id", (req, res) => {
+  const country = countries.find((c) => c.id === req.params.id)
+  if (country) {
+    res.json(country);
+  } else {
+    res.status(404).json({ message: "Country not found" });
+  }
 });
 
 app.listen(PORT, () => {
