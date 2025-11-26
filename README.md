@@ -20,7 +20,7 @@ Countries API All by countries
 https://own-made-api-connection-tsn.onrender.com/countries
 
 Countries Name by name
-https://own-made-api-connection-tsn.onrender.com/countries/name/{:name}
+https://own-made-api-connection-tsn.onrender.com/countries/name/bangladesh
 
 Countries Id get by id
 https://own-made-api-connection-tsn.onrender.com/countries/id/2
