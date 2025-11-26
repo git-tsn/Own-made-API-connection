@@ -1,14 +1,19 @@
-import { useState } from 'react'
-import './App.css'
+import { Suspense } from "react";
+import "./App.css";
+import Countries from "./components/countries/countries";
+
+const countriesPromis = fetch(
+  "https://own-made-api-connection-tsn.onrender.com/countries"
+).then((res) => res.json());
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <h1>React world on the Go...</h1>
+      <Suspense fallback={<h3>Countries are loading...</h3>}>
+        <Countries countriesPromis={countriesPromis}></Countries>
+      </Suspense>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
