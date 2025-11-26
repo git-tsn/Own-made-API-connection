@@ -17,13 +17,13 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 Countries API All by countries
-https://own-made-api-connection-tsn.onrender.com/countries
+https://own-made-api-connection-of-countries-tsn.onrender.com/countries
 
 Countries Name by name
-https://own-made-api-connection-tsn.onrender.com/countries/name/bangladesh
+https://own-made-api-connection-of-countries-tsn.onrender.com/countries/name/bangladesh
 
 Countries Id get by id
-https://own-made-api-connection-tsn.onrender.com/countries/id/2
+https://own-made-api-connection-of-countries-tsn.onrender.com/countries/id/2
 
 Countries by Capital
-https://own-made-api-connection-tsn.onrender.com/countries/capital/dhaka
+https://own-made-api-connection-of-countries-tsn.onrender.com/countries/capital/dhaka
