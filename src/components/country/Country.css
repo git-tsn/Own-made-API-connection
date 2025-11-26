@@ -7,6 +7,10 @@
   margin: 20px;
 }
 
+.country img {
+  width: 10rem;
+}
+
 .country-visited {
     background-color: darkgray;
 }

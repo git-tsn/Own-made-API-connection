@@ -20,8 +20,8 @@ const Country = ({country, handleVisitedCountries, handleVisitedCountriesRemove,
 
     return (
         <div className={`country ${visited && 'country-visited'}`}>
-            <h3><span>{country.id}.  </span>Name : {country.name} 
-              <img src={country.flag} alt="flag" /></h3> 
+            <h3><img src={country.flag} alt="flag" /><hr />
+            <span>{country.id}.  </span>Name : {country.name} </h3> 
             <h3>Native Name : {country.nativeName}</h3>
             <h3>Capital : {country.capital}</h3>
             <h4>Languages : {country.languages[0].name}</h4>

@@ -3,7 +3,7 @@ import "./App.css";
 import Countries from "./components/countries/countries";
 
 const countriesPromis = fetch(
-  "https://own-made-api-connection-tsn.onrender.com/countries"
+  "https://own-made-api-connection-of-countries-tsn.onrender.com/countries"
 ).then((res) => res.json());
 
 function App() {
