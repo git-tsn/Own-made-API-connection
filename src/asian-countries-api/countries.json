@@ -38,7 +38,7 @@
                 "nl": "Afghanistan",
                 "pt": "Afeganistão"
             },
-            "flag": "https://restcountries.eu/data/afg.svg",
+            "flag": "https://flagcdn.com/w320/af.png",
             "regionalBlocs": [{"acronym": "SAARC", "name": "South Asian Association for Regional Cooperation"}],
             "cioc": "AFG"
         },
@@ -76,7 +76,7 @@
                 "nl": "Bangladesh",
                 "pt": "Bangladesh"
             },
-            "flag": "https://restcountries.eu/data/bgd.svg",
+            "flag": "https://flagcdn.com/w320/bd.png",
             "regionalBlocs": [{"acronym": "SAARC", "name": "South Asian Association for Regional Cooperation"}],
             "cioc": "BAN"
         },
@@ -114,7 +114,7 @@
                 "nl": "Bhutan",
                 "pt": "Butão"
             },
-            "flag": "https://restcountries.eu/data/btn.svg",
+            "flag": "https://flagcdn.com/w320/bt.png",
             "regionalBlocs": [{"acronym": "SAARC", "name": "South Asian Association for Regional Cooperation"}],
             "cioc": "BHU"
         },
@@ -155,7 +155,7 @@
                 "nl": "India",
                 "pt": "Índia"
             },
-            "flag": "https://restcountries.eu/data/ind.svg",
+            "flag": "https://flagcdn.com/w320/in.png",
             "regionalBlocs": [{"acronym": "SAARC", "name": "South Asian Association for Regional Cooperation"}],
             "cioc": "IND"
         },
@@ -193,7 +193,7 @@
                 "nl": "Maldiven",
                 "pt": "Maldivas"
             },
-            "flag": "https://restcountries.eu/data/mdv.svg",
+            "flag": "https://flagcdn.com/w320/mv.png",
             "regionalBlocs": [{"acronym": "SAARC", "name": "South Asian Association for Regional Cooperation"}],
             "cioc": "MDV"
         },
@@ -231,7 +231,7 @@
                 "nl": "Nepal",
                 "pt": "Nepal"
             },
-            "flag": "https://restcountries.eu/data/npl.svg",
+            "flag": "https://flagcdn.com/w320/np.png",
             "regionalBlocs": [{"acronym": "SAARC", "name": "South Asian Association for Regional Cooperation"}],
             "cioc": "NEP"
         },
@@ -272,7 +272,7 @@
                 "nl": "Pakistan",
                 "pt": "Paquistão"
             },
-            "flag": "https://restcountries.eu/data/pak.svg",
+            "flag": "https://flagcdn.com/w320/pk.png",
             "regionalBlocs": [{"acronym": "SAARC", "name": "South Asian Association for Regional Cooperation"}],
             "cioc": "PAK"
         },
@@ -313,7 +313,7 @@
                 "nl": "Sri Lanka",
                 "pt": "Sri Lanka"
             },
-            "flag": "https://restcountries.eu/data/lka.svg",
+            "flag": "https://flagcdn.com/w320/lk.png",
             "regionalBlocs": [{"acronym": "SAARC", "name": "South Asian Association for Regional Cooperation"}],
             "cioc": "SRI"
         },
@@ -351,7 +351,7 @@
                 "nl": "China",
                 "pt": "China"
             },
-            "flag": "https://restcountries.eu/data/chn.svg",
+            "flag": "https://flagcdn.com/w320/cn.png",
             "regionalBlocs": [],
             "cioc": "CHN"
         },
@@ -389,7 +389,7 @@
                 "nl": "Japan",
                 "pt": "Japão"
             },
-            "flag": "https://restcountries.eu/data/jpn.svg",
+            "flag": "https://flagcdn.com/w320/jp.png",
             "regionalBlocs": [],
             "cioc": "JPN"
         },
@@ -427,7 +427,7 @@
                 "nl": "Zuid-Korea",
                 "pt": "Coreia do Sul"
             },
-            "flag": "https://restcountries.eu/data/kor.svg",
+            "flag": "https://flagcdn.com/w320/kr.png",
             "regionalBlocs": [],
             "cioc": "KOR"
         },
@@ -465,7 +465,7 @@
                 "nl": "Noord-Korea",
                 "pt": "Coreia do Norte"
             },
-            "flag": "https://restcountries.eu/data/prk.svg",
+            "flag": "https://flagcdn.com/w320/kp.png",
             "regionalBlocs": [],
             "cioc": "PRK"
         },
@@ -503,7 +503,7 @@
                 "nl": "Mongolië",
                 "pt": "Mongólia"
             },
-            "flag": "https://restcountries.eu/data/mng.svg",
+            "flag": "https://flagcdn.com/w320/mn.png",
             "regionalBlocs": [],
             "cioc": "MGL"
         },
@@ -541,7 +541,7 @@
                 "nl": "Thailand",
                 "pt": "Tailândia"
             },
-            "flag": "https://restcountries.eu/data/tha.svg",
+            "flag": "https://flagcdn.com/w320/th.png",
             "regionalBlocs": [{"acronym": "ASEAN", "name": "Association of Southeast Asian Nations"}],
             "cioc": "THA"
         },
@@ -579,7 +579,7 @@
                 "nl": "Maleisië",
                 "pt": "Malásia"
             },
-            "flag": "https://restcountries.eu/data/mys.svg",
+            "flag": "https://flagcdn.com/w320/my.png",
             "regionalBlocs": [{"acronym": "ASEAN", "name": "Association of Southeast Asian Nations"}],
             "cioc": "MAS"
         },
@@ -622,7 +622,7 @@
                 "nl": "Singapore",
                 "pt": "Singapura"
             },
-            "flag": "https://restcountries.eu/data/sgp.svg",
+            "flag": "https://flagcdn.com/w320/sg.png",
             "regionalBlocs": [{"acronym": "ASEAN", "name": "Association of Southeast Asian Nations"}],
             "cioc": "SGP"
         },
@@ -660,7 +660,7 @@
                 "nl": "Vietnam",
                 "pt": "Vietname"
             },
-            "flag": "https://restcountries.eu/data/vnm.svg",
+            "flag": "https://flagcdn.com/w320/vn.png",
             "regionalBlocs": [{"acronym": "ASEAN", "name": "Association of Southeast Asian Nations"}],
             "cioc": "VIE"
         },
@@ -701,7 +701,7 @@
                 "nl": "Filipijnen",
                 "pt": "Filipinas"
             },
-            "flag": "https://restcountries.eu/data/phl.svg",
+            "flag": "https://flagcdn.com/w320/ph.png",
             "regionalBlocs": [{"acronym": "ASEAN", "name": "Association of Southeast Asian Nations"}],
             "cioc": "PHI"
         },
@@ -739,7 +739,7 @@
                 "nl": "Indonesië",
                 "pt": "Indonésia"
             },
-            "flag": "https://restcountries.eu/data/idn.svg",
+            "flag": "https://flagcdn.com/w320/id.png",
             "regionalBlocs": [{"acronym": "ASEAN", "name": "Association of Southeast Asian Nations"}],
             "cioc": "INA"
         }
